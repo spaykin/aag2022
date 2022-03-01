@@ -4,7 +4,7 @@
 
 This repo contains presentation materials for the Spatial Data Science for Impact session at the Association of American Geographers (AAG) Annual Conference 2022, on February 28, 2022. #AAG2022
 
-My talk highlights the [Opioid Environment Policy Scan (OEPS)](https://github.com/GeoDaCenter/opioid-policy-scan), an open sopatial data warehouse for analyzing and visualizing the opioid risk environment across the US. Check out the Github repo, or explore & visualize data on the user-friendly, completely open source-built OEPS web application [OEPS Explorer](oeps.ssd.uchicago.edu). 
+My talk highlights the [Opioid Environment Policy Scan (OEPS)](https://github.com/GeoDaCenter/opioid-policy-scan), a free and open source spatial data warehouse for analyzing and visualizing the opioid risk environment across the US. Check out the Github repo, or explore & visualize data on the user-friendly, completely open source-built OEPS web application [OEPS Explorer](oeps.ssd.uchicago.edu). 
 
 ![AAG-Intro](https://user-images.githubusercontent.com/49726781/156011313-0325a1ae-dda5-4164-8dd3-ffe4a3769831.png)
 
